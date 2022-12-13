@@ -25,7 +25,7 @@ class AlunoController extends Controller
      */
     public function create()
     {
-        return view('funcionario.create');
+        return view('aluno.create');
     }
 
     /**
